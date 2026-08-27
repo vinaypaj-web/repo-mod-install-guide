@@ -1,0 +1,8 @@
+# Text file normalization
+*.gif binary
+*.bat text eol=crlf
+*.json linguist-detectable=false
+*.tsx linguist-detectable
+src/**/*.tsx linguist-detectable
+examples/site/** linguist-vendored
+# eof 689e99b9
